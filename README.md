@@ -49,7 +49,7 @@ Website Ini dibuat untuk user bisa mengunggah foto yang ingin dikirim seperti ke
 ## Instalasi
 1. Clone Repository
 ```
-https://github.com/HikkiHyaku/gallery.git
+https://github.com/Ramadansyah2/projek-ukk.git
 ```
 
 2. Install Composer
