@@ -1,48 +1,47 @@
-# Gallery
+# Galeri foto
 
 ## Tentang Website:
 
-Website Ini Dibuat Agar User Bisa Mempublish Gambar Dan Membuat Album, Secara Tampilan Ini Berusaha Menghikuti Pixiv, Walaupun Masih Jauh, Secara Fungsi Masih Sama, Yakni Membuat Album Dan Gambar
+Website Ini dibuat untuk user bisa mengunggah foto yang ingin dikirim seperti kebanyakan website galeri web ini juga memiliki fitur yang cukup umum ditemukan pada website galeri yang lain.
 
-## Fitur:
-- Login
-- Register
-- Logout
-- Multi Pengguna/User
-- Upload/Add Foto
+## Fitur Yang Dimiliki:
+- Login,
+- Register,
+- Logout,
+- Multi Pengguna/User,
+- Mengunggah foto,
 - Membuat Album
 - Komentar
 - Like Foto
-- dll
+- dan sebagainya
 
 ## Tampilan Website
 
-![Screenshot (69)](https://github.com/HikkiHyaku/gallery/assets/105845193/3087feb6-ce4e-445b-9e91-39416da99455)
+![Screenshot (22)](https://github.com/Ramadansyah2/projek-ukk/assets/160801704/4bebb739-bec6-43ec-a5fe-79ed0ad83817)
 
-![Screenshot (70)](https://github.com/HikkiHyaku/gallery/assets/105845193/2365b781-0939-4dfe-a826-62574f95ffd9)
+![Screenshot (25)](https://github.com/Ramadansyah2/projek-ukk/assets/160801704/ba6f98d2-fe08-48e0-be9f-315787abccda)
 
-![Screenshot (71)](https://github.com/HikkiHyaku/gallery/assets/105845193/00cf0a0f-14c5-444c-a712-f81fd2710262)
+![Screenshot (29)](https://github.com/Ramadansyah2/projek-ukk/assets/160801704/1eed6f92-a25b-4301-b736-2f279ab22549)
 
-![Screenshot (72)](https://github.com/HikkiHyaku/gallery/assets/105845193/277e8a66-ab4e-420c-9903-43033f7e9d23)
+![Screenshot (26)](https://github.com/Ramadansyah2/projek-ukk/assets/160801704/899f50d7-ea6d-4598-81f3-5469c4b5aa3f)
 
 ## ERD, Relasi dan UML Use Case
 
 - ERD
 
-![ikhsan](https://github.com/HikkiHyaku/gallery/assets/105845193/80bd89c6-37ef-40e3-9be4-4b6f6aea9286)
+![RAMA](https://github.com/Ramadansyah2/projek-ukk/assets/160801704/91d25667-e9db-407f-8ff4-6d51b0479eef)
 
 - Relasi
-
-![Screenshot 2024-04-22 220558](https://github.com/HikkiHyaku/gallery/assets/105845193/fd7724b6-d2b3-4981-8917-4ac18938ce6d)
+![Capture](https://github.com/Ramadansyah2/projek-ukk/assets/160801704/75056de1-639f-4776-bc9b-0f607614342c)
 
 - UML
 
-![UML Ikhsan drawio](https://github.com/HikkiHyaku/gallery/assets/105845193/770a616c-2c8d-4745-9a18-40939b39d53d)
+![ZPBFJWCX4CRlFCMazxw2wHyJBpqOa-ePbt5BoZ8D3F5WV7SNQ0cZczYU-7xpAvryT1DP1qwJKmu_69WWsF74O6p0WIrv5S_MNtJG4rpqSDOZmfU2-RERqnWeURCdHm7UJfQnJYWO39NktAofRwNqm7DyIXWPT8HLEQsKoZ-Z_UZmXgxNfuY3rfsb2pvru9TLjQnuZXh9bFiWbC_bln-pSjsSsxz](https://github.com/Ramadansyah2/projek-ukk/assets/160801704/a651f65b-6e2d-4a08-89bb-51f54556b4b2)
 
 
 ## Prasyaratan
 
-- PHP 8.3.6 & Web Server (Apache, Lighttpd, atau Nginx)
+- PHP 8.2.X & Web Server (Apache, Lighttpd, atau Nginx)
 - Database (PhpMyAdmin)
 - Web Browser (Firefox, Opera, dll)
 - Laragon
@@ -70,7 +69,7 @@ copy .env.example .env
 4. Setting database di .env
 ```
 DB_PORT=3306
-DB_DATABASE=ukk-gallery
+DB_DATABASE=ukk-rama
 DB_USERNAME=root
 DB_PASSWORD=
 ```
